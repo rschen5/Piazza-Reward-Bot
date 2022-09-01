@@ -10,4 +10,4 @@ Languages and tools used:
 * Node.js
 * MongoDB
 
-Since this is a school project, the code cannot be shared. However, here is a [demo](https://drive.google.com/file/d/1Rqi9C-_pj6HNAmFVyCYQ52TZ-PEYSqbS/view?usp=sharing) of how the bot works. Please see the [report](files/Piazza_Reward_Bot_Report.pdf) for more detail.
+I cannot share the code for this course project, but here is a [demo](https://drive.google.com/file/d/1Rqi9C-_pj6HNAmFVyCYQ52TZ-PEYSqbS/view?usp=sharing) of how the bot works. Please see the [report](files/Piazza_Reward_Bot_Report.pdf) for more detail.
